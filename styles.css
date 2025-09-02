@@ -8,7 +8,7 @@
 
 html {
     height: 100%;
-    overflow-x: hidden; 
+    overflow-x: hidden;
 }
 
 body {
@@ -402,7 +402,7 @@ h2 {
     }
 
     .profile-sticky-wrapper {
-        top: -8%;
+        top: 0;
     }
 
 }

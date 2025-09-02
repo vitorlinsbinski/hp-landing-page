@@ -8,7 +8,7 @@ const elementToShrink = document.querySelector('.profile-sticky-wrapper');
 function handleScroll() {
   const scrollPosition = window.scrollY;
 
-  if (scrollPosition > 50) {
+  if (scrollPosition > 100) {
     elementToShrink.classList.add('shrunk');
   } else {
     elementToShrink.classList.remove('shrunk');

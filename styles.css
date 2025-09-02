@@ -8,13 +8,11 @@
 
 html {
     height: 100%;
-    overflow-x: hidden;
 }
 
 body {
     height: 100vh;
     cursor: url('./assets/cursor-hp-2.cur') 1 1, auto;
-    overflow-x: hidden;
 }
 
 a,
@@ -73,7 +71,7 @@ body {
     background-image: url('https://cdn-hogwartslegacy.warnerbrosgames.com/home/bg-bottom.webp');
     background-repeat: no-repeat;
     background-size: cover;
-    padding-bottom: 5rem;
+    padding-bottom: 3.6rem;
 }
 
 .container {
@@ -401,7 +399,4 @@ h2 {
         font-size: 52%;
     }
 
-    .profile-sticky-wrapper {
-        top: 2.5rem;
-    }
 }

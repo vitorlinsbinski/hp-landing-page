@@ -6,7 +6,7 @@ Este projeto é um currículo fictício do personagem Harry Potter, desenvolvido
 
 ## Acesse o Projeto Online
 
-[Visualizar Currículo Harry Potter](https://vitorlinsbinski.github.io/harry-potter-landing-page/)
+[Visualizar Currículo Harry Potter](https://vitorlinsbinski.github.io/hp-landing-page/)
 
 ## Funcionalidades
 

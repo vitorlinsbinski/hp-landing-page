@@ -399,4 +399,8 @@ h2 {
         font-size: 52%;
     }
 
+    .profile-sticky-wrapper {
+        top: -8%;
+    }
+
 }

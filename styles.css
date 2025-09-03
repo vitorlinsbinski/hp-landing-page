@@ -141,7 +141,7 @@ header h1 {
 
     height: 100%;
 
-    transform: translate(-50%, -50%) scale(1.1);
+    transform: translate(-50%, -50%);
 
     background: rgba(199, 158, 79, 0.8);
     border-radius: 50% / 40%;
@@ -161,7 +161,7 @@ header h1 {
 
     height: 100%;
 
-    transform: translate(-50%, -50%) scale(1.1);
+    transform: translate(-50%, -50%);
 
     background: rgba(166, 138, 245, 0.8);
     border-radius: 50% / 45%;
